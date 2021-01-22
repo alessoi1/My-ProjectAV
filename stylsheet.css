@@ -1,0 +1,72 @@
+.navbar{
+    background-color: #DEC085 !important;
+}
+
+.navbarcenter{
+    background-color: #DEC085;
+}
+
+footer {
+    position: absolute;
+    bottom: 0px;
+    background-color: #DEB485;
+    color: black;
+    text-align: center;
+    border: 1px solid black;
+    width: 100%;
+    position: fixed;
+}
+
+.navbarblue{
+    background-color: #DEC085 !important;
+}
+
+.navbar-brand img{
+    
+    height: 50px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
+}   
+.nav-item a {
+    font-size: 1.2em;
+    margin: 0 .5em 0 .5em;
+}
+.dropdown-item{
+    margin: 0 !important;
+}
+
+.navbar-brand img{
+    height: 50px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
+}
+
+@media (min-width: 1200px){
+    .navbarcenter{
+        max-width: fit-content;
+    }
+}
+
+h1{
+    text-align: center;
+    margin-top: 0.2em;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 70px;
+    position: absolute;
+    margin-top: 5%;
+    z-index: 10;
+    color: #FAEBC6;
+}
+
+.pic{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    z-index: -10;
+}
+
+body{
+    background-color: black;
+}
+
+.nav-link{
+    padding-left: 100em;
+}
